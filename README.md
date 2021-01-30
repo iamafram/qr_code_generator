@@ -1,6 +1,6 @@
 # qr_code_generator
 
-As indicated by his name, qr_code_generator is a simple program in python who generate a qr cod.
+As indicated by his name, qr_code_generator is a simple program in python who generate a qr code.
 
 ## Installation
 
@@ -28,5 +28,5 @@ img.save("portfolio_code.png") # save the qr code as a png file
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## language
+## Language(s)
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
